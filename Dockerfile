@@ -204,6 +204,7 @@ RUN set -x \
       man-db \
       manpages \
       mosh \
+      mysql-client \
       net-tools \
       pass \
       psmisc \
